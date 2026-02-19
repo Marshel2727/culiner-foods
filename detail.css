@@ -1,0 +1,54 @@
+body[detail-prodact] {
+    background-color: rgb(24, 0, 0);
+}
+
+.detail-hero {
+    height: 420px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: grid;
+    gap: 16px;
+}
+
+.dcFood {
+    max-width: 800px;
+    margin: auto;
+    padding: 24px 16px 60px;
+}
+
+.food-detail {
+    background-color: rgb(17, 17, 17);
+    color:  white;
+    border-radius: 16px;
+    border: 1px solid rgb(53, 14, 14);
+    overflow: hidden;
+    display: grid;
+}
+
+.detail-body {
+    padding: 16px;
+    display: grid;
+    gap: 16px;
+}
+
+.detail-body p {
+    color: rgb(244, 212, 212);
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+.back {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: rgb(4, 180, 196);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.menu-detail {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fit minmax(120px, 1fr));
+}
