@@ -180,5 +180,19 @@
     "waktu_masak": "15 menit",
     "image": "assets/images/spaghetti_bolognese_cherry.jpg",
     "accent": "#ffb703"
-  }
+  },
+  {
+    "id": "gado-gado-komplit",
+    "title": "Gado-Gado Komplit",
+    "subtitle": "Salad tradisional Indonesia dengan saus kacang yang gurih.",
+    "description": "Campuran sayuran segar, tahu, tempe, telur rebus, dan lontong.",
+    "detail_description": "Hidangan sehat berisi aneka sayuran rebus seperti kangkung, kubis, wortel, jagung, dan tauge, disajikan bersama potongan lontong, tahu, tempe, dan telur rebus. Disertai dengan saus kacang kental yang terpisah, perasan jeruk limau, dan tambahan kerupuk renyah.",
+    "label": "Indonesian Classic",
+    "harga": "Rp 35.000",
+    "kalori": "450 kkal",
+    "porsi": "1 porsi",
+    "waktu_masak": "20 menit",
+    "image": "assets/images/gado_gado_komplit.jpg",
+    "accent": "#4CAF50"
+}
 ]
